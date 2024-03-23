@@ -1,10 +1,7 @@
-# presentacion-
+# Me llamo Gonzalo Purita
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
-
-Ya saben usar git!
+- Tengo 21 años y soy de Esteban Echeverria.
+- Arranqué en la UTN con ingenieria eletrónica para luego cambiarme a Sistemas.
+- Me gusta leer e ir al gimnasio.
+- Tengo un perro (el que muestro bajo)
+- Espero tener una buena cursada con todos
